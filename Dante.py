@@ -1,2 +1,2 @@
 print("BOSS")
-void()
+def void():
